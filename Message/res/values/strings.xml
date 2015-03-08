@@ -6,5 +6,7 @@
     <string name="title_activity_main">MainActivity</string>
     <string name="newsms">新建信息</string>
     <string name="reply">回复信息</string>
+    <string name="sendnum">收件人号码</string>
+    <string name="body">发送内容</string>
 
 </resources>
