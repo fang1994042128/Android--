@@ -22,29 +22,23 @@ public final class R {
         public static final int people=0x7f020003;
     }
     public static final class id {
-        public static final int contact=0x7f08000c;
-        public static final int edbody=0x7f08000e;
-        public static final int ednum=0x7f08000d;
+        public static final int contact=0x7f080007;
+        public static final int edbody=0x7f080009;
+        public static final int ednum=0x7f080008;
         public static final int imag=0x7f080000;
         public static final int listmsg=0x7f080002;
         public static final int listnum=0x7f080001;
         public static final int listtime=0x7f080003;
-        public static final int menu_settings=0x7f080010;
+        public static final int menu_settings=0x7f08000b;
         public static final int msg_list=0x7f080006;
         public static final int newsms=0x7f080005;
-        public static final int recontent=0x7f080009;
-        public static final int renum=0x7f080007;
-        public static final int reply=0x7f08000b;
-        public static final int replybody=0x7f08000a;
-        public static final int retime=0x7f080008;
-        public static final int send=0x7f08000f;
+        public static final int send=0x7f08000a;
         public static final int type=0x7f080004;
     }
     public static final class layout {
         public static final int listview=0x7f030000;
         public static final int main=0x7f030001;
-        public static final int reply=0x7f030002;
-        public static final int write=0x7f030003;
+        public static final int write=0x7f030002;
     }
     public static final class menu {
         public static final int activity_main=0x7f070000;
