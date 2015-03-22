@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">StockerTest</string>
+    <string name="no_stocks">没有添加任何股票</string>
+    <string name="button1">button1</string>
+    <string name="button2">button2</string>
+    <string name="add">添加</string>    
+    <string name="enter_symbols">添加股票代码</string>    
+    <string name="close">Close</string>    
+    <string name="ok">OK</string>    
+    <string name="delete">删除</string>    
+    <string name="title_activity_main">MainActivity</string>
+
+</resources>
